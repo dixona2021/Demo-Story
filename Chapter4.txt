@@ -1,0 +1,3 @@
+SO we decided to stick with SwiftUI. 
+and further improve the knowledge withing swift dev.
+
