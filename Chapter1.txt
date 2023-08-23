@@ -1,2 +1,1 @@
-Iam a begginer learning to code with Swift language.
-
+Suddenly decided to pursue web dev. Thought finished with ios dev
